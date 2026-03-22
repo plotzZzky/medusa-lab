@@ -13,8 +13,9 @@ Devido a probleas técnicas no uso de máquinas virtuais, foi adotada uma aborda
 Este projeto é destinado **exclusivamente para fins educacionais e acadêmicos**.
 Não utilize estas técnicas em ambientes reais sem autorização explícita.
 
+---
 
-#### Objetivos do projeto 🎯
+### Objetivos do projeto 🎯
 - Praticar conceitos de brute force ✅
 - Entender ataques a serviços FTP ✅
 - Simular ambientes de pentest de forma controlada ✅
@@ -50,6 +51,4 @@ Não utilize estas técnicas em ambientes reais sem autorização explícita.
 	$ sudo docker compose up --build -
 	$ sudo docker exec -it kali bas
 	$ medusa -h ftp-server -U wordlists/usernames.txt -P wordlists/passwords.txt -M ftp
-``
-
-
+```
