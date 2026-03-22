@@ -1,4 +1,4 @@
-# Medusa Lab 🧪
+## Medusa Lab 🧪
 
 #### Projeto desenvolvido como parte da conclusão do módulo de **Hacking Ético** do bootcamp Riachuelo - Cibersegurança (DIO).
 
@@ -8,7 +8,7 @@ Devido a probleas técnicas no uso de máquinas virtuais, foi adotada uma aborda
 
 ---
 
-### Aviso Importante ⚠️ 
+### Aviso Importante 🚨 
 
 Este projeto é destinado **exclusivamente para fins educacionais e acadêmicos**.
 Não utilize estas técnicas em ambientes reais sem autorização explícita.
@@ -36,7 +36,7 @@ Não utilize estas técnicas em ambientes reais sem autorização explícita.
 
 ---
 
-## Como usar 💻
+### Como usar 💻
 
 #### Execução automatizada
 
