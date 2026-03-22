@@ -1,0 +1,10 @@
+# Git
+.git/
+
+# IDEs
+.idea/
+
+# Python
+.venv/
+venv/
+

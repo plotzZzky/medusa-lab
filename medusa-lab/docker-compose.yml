@@ -1,0 +1,27 @@
+
+services:
+  ftp-server:
+    image: fauria/vsftpd
+    container_name: ftp-server
+    environment:
+      - FTP_USER=admin
+      - FTP_PASS=admin
+    ports:
+      - "2121:21"
+    networks:
+      - lab-net
+
+  attacker:
+    build:
+      context: ./kali
+      dockerfile: Dockerfile
+    container_name: kali
+    tty: true
+    volumes:
+      - ./kali:/app
+    working_dir: /app
+    networks:
+      - lab-net
+
+networks:
+  lab-net:
