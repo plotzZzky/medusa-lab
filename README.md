@@ -36,7 +36,7 @@ Não utilize estas técnicas em ambientes reais sem autorização explícita.
 
 ---
 
-## Como usar
+## Como usar 💻
 
 #### Execução automatizada
 
